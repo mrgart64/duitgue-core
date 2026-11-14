@@ -1,0 +1,45 @@
+{
+    "name": "Duit Gue",
+    "records": [
+        {
+            "id": "34f966f0-bea6-4a1f-bd7b-b7fb560e1b13",
+            "name": "Setoran Awal Wallet",
+            "type": "income",
+            "category": "income",
+            "amount": 500000.0,
+            "datetime": "2026-10-07T05:03:37Z"
+        },
+        {
+            "id": "af5ef03a-ca98-43d6-9d7b-c5377536eda3",
+            "name": "bensin",
+            "type": "income",
+            "category": "income",
+            "amount": 37000.0,
+            "datetime": "2026-10-07T05:04:00Z"
+        },
+        {
+            "id": "f9127e67-80d8-4210-b9f3-e76e678e7895",
+            "name": "bensin",
+            "type": "outcome",
+            "category": "transportation",
+            "amount": 37000.0,
+            "datetime": "2026-10-07T05:04:34Z"
+        },
+        {
+            "id": "ae4f9450-ae1b-4bd1-9d12-a27b171f5ff0",
+            "name": "mie gacoan 4 porsi",
+            "type": "outcome",
+            "category": "food",
+            "amount": 44000.0,
+            "datetime": "2026-10-07T05:04:50Z"
+        },
+        {
+            "id": "16203bc1-da12-4f24-ba90-dd71f08c200f",
+            "name": "beli PDH AI",
+            "type": "outcome",
+            "category": "etc",
+            "amount": 200000.0,
+            "datetime": "2026-10-07T05:05:14Z"
+        }
+    ]
+}

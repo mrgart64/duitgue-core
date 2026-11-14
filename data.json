@@ -1,0 +1,111 @@
+{
+    "selected_wallet": "bf0dbab7-57dc-498c-9d14-d6193fad0357",
+    "wallets": {
+        "89f05404-8200-4b64-a82d-129a27899d0a": {
+            "name": "Duit Gue",
+            "records": [
+                {
+                    "id": "6c794b90-a154-4c0c-8912-179de1b5aec2",
+                    "name": "Setoran Awal Wallet",
+                    "type": "income",
+                    "category": "income",
+                    "amount": 500000.0,
+                    "datetime": "2026-10-07T07:02:45Z"
+                },
+                {
+                    "id": "58a8107b-2478-4b39-a541-a774aa2d9884",
+                    "name": "bensin",
+                    "type": "outcome",
+                    "category": "transportation",
+                    "amount": 37000.0,
+                    "datetime": "2026-10-07T07:03:52Z"
+                },
+                {
+                    "id": "51949fb1-9300-4877-901d-327d10990d7a",
+                    "name": "mie gacoan",
+                    "type": "outcome",
+                    "category": "food",
+                    "amount": 11500.0,
+                    "datetime": "2026-10-07T07:04:22Z"
+                },
+                {
+                    "id": "79792965-dd59-4ac3-af61-0833d8ea2197",
+                    "name": "bayar parkir",
+                    "type": "outcome",
+                    "category": "etc",
+                    "amount": 2000.0,
+                    "datetime": "2026-10-07T07:04:42Z"
+                },
+                {
+                    "id": "4075cfb0-21e9-482c-8749-c91b917efdc7",
+                    "name": "mie gacoan",
+                    "type": "outcome",
+                    "category": "food",
+                    "amount": 11500.0,
+                    "datetime": "2026-10-08T00:48:01Z"
+                },
+                {
+                    "id": "4b682485-1d34-4025-8278-067ca4ba9132",
+                    "name": "pertamax",
+                    "type": "outcome",
+                    "category": "transportation",
+                    "amount": 75000.0,
+                    "datetime": "2026-10-09T07:59:05Z"
+                }
+            ]
+        },
+        "bf0dbab7-57dc-498c-9d14-d6193fad0357": {
+            "name": "Duit Supri",
+            "records": [
+                {
+                    "id": "06aa10df-4f96-470c-b1f7-98681a6050ce",
+                    "name": "Setoran Awal Wallet",
+                    "type": "income",
+                    "category": "income",
+                    "amount": 500000.0,
+                    "datetime": "2026-10-09T07:57:46Z"
+                },
+                {
+                    "id": "abe40443-850f-44be-9d0d-be249b106e39",
+                    "name": "pertamax",
+                    "type": "outcome",
+                    "category": "transportation",
+                    "amount": 75000.0,
+                    "datetime": "2026-10-09T08:00:40Z"
+                },
+                {
+                    "id": "d75f283c-1f95-49ef-b756-9646092de04f",
+                    "name": "butter cake",
+                    "type": "outcome",
+                    "category": "food",
+                    "amount": 16000.0,
+                    "datetime": "2026-10-09T08:00:53Z"
+                },
+                {
+                    "id": "36f8adc5-e858-4d97-9a0e-b77452301517",
+                    "name": "kopi",
+                    "type": "outcome",
+                    "category": "food",
+                    "amount": 25000.0,
+                    "datetime": "2026-10-09T08:02:11Z"
+                },
+                {
+                    "id": "b218cce1-9c2e-486d-a2e6-28f3ec02d71f",
+                    "name": "kegiatan",
+                    "type": "outcome",
+                    "category": "etc",
+                    "amount": 35000.0,
+                    "datetime": "2026-10-09T08:02:45Z"
+                },
+                {
+                    "id": "242c843c-7832-46e8-8bcd-502f19c9863e",
+                    "name": "PDH organisasi",
+                    "type": "outcome",
+                    "category": "tool",
+                    "amount": 220000.0,
+                    "datetime": "2026-10-09T08:03:26Z"
+                }
+            ]
+        }
+    }
+}
